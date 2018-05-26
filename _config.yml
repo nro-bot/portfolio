@@ -13,10 +13,13 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:4000/
-root: /
+#url: http://localhost:4000/
+#root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+url: http://localhost:4000
+root: /portfolio/
 
 # Directory
 source_dir: source
@@ -74,8 +77,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: next
-theme: indigo
+theme: next
+#theme: indigo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
