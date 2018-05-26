@@ -45,3 +45,9 @@ git clone https://github.com/theme-next/hexo-theme-next themes/next
 
 Excerpt should not contain images above the "more" line. These images will not render properly in
 the index view, due to relative path & asset folder issues
+
+
+# to run
+
+hexo clean; hexo gen -w
+hexo s --debug
