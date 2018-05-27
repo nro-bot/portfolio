@@ -11,15 +11,16 @@ menu:
   home:
     text: Home #主页
     url: /
-  blog:
-    text: Blog #主页
-    url: /blog
+  #blog:
+    #text: Blog #主页
+    #url: /blog
   archives:
+    text: By Date 
     url: /archives
-  tags:
-    url: /tags
+  #tags:
+    #url: /tags
   th-list:
-    text: Categories
+    text: By Category 
     url: /categories
   #github:
     #url: https://github.com/nouyang
@@ -74,7 +75,7 @@ reward: false
 search: true
 
 # 是否大屏幕下文章页隐藏导航
-hideMenu: true
+hideMenu: false #true
 
 # 是否开启toc
 # toc: false
@@ -160,7 +161,7 @@ about: lentils #用户页面中作者相关的描述性文字，如不需要设�
 
 # 设置为 true 发布后将使用 unpkg cdn 最新的主题样式
 # 如果想让你的自定义样式生效，把此项设为 false
-cdn: true
+cdn: false
 
 # 设置为 true 将使用 lightbox render 图片
 lightbox: true

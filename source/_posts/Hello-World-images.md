@@ -8,6 +8,7 @@ tags:
 featured_image: test_image.png 
 categories:
 - test
+blurb: This is a blurb of text about how this projevt is great.
 ---
 
 ![a test broken image](non_image.png)

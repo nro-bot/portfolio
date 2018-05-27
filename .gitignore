@@ -7,5 +7,7 @@ public/
 .deploy*/
 *.swp
 *.swo
+*/*.swo
+*/*.swp
 themes/next/
 
