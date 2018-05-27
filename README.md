@@ -51,3 +51,11 @@ the index view, due to relative path & asset folder issues
 
 hexo clean; hexo gen -w
 hexo s --debug
+
+
+# Todo
+* install indigo next theme
+* make featured image appear in "archive" view
+* make homepage not the blog
+* make grid on homepage
+* make featured image appear in categories or tags page
