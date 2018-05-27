@@ -11,18 +11,12 @@ As you can see, there is no blog index on this page.
 [I'm a relative reference to a repository file](../tags)
 
 
+<div class="flex-row">
+  <div class="flex-col card">1 test <a href="../tags"><strong>Project 1</a> test
+  </div>
+  <div class="flex-col card">2
+  </div>
+  <div class="flex-col card">3
+  </div>
+</div>
 
-<table>
-<tbody>
-<tr class="even">
-<td align="center">test <a href="../tags"><strong>Project 1</a> test</td>
-<td align="center"><a href="../categories"><strong>Project 2</strong></a></td>
-<td align="center"><a href="../blog"><strong>Project 3</strong></a></td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="../tags"><img src=""></a></td>
-<td align="left"><a href="../categories"><img src=""></a></td>
-<td align="left"><a href="../blog"><img src=""></a></td>
-</tr>
-</tbody>
-</table>
