@@ -1,0 +1,14 @@
+{
+    "port": 4009,
+    "hexo_dir": "/home/nrw/Documents/projects_Spring2018/portfolio",
+    "admin": {
+        "username": "testadmin",
+        "password": "$2a$08$57v4peMRdykcxhVoRiKA7ekrtYfbUYrCgE9Zn6IBAsKNR3wTX0wLu",
+        "plain": false 
+    },
+    "deploy": {
+        "type": "default",
+        "script": ""
+    },
+    "lang": "en_US"
+}
