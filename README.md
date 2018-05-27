@@ -31,14 +31,19 @@ sudo npm uninstall hexo-asset-path
 
 
 %% https://hexo.io/api/filter.html#Execute-Filters
-
-
 npm install --save hexo-featured-image
+
+%% https://github.com/quincyyhuang/hexo-node-admin
+
+npm install hexo-deployer-git --save
 
 # themes
 
 well... moving on for now...
 git clone https://github.com/theme-next/hexo-theme-next themes/next
+
+$ git checkout -b gh-pages
+$ git push --set-upstream origin gh-pages
 
 
 # Notes
@@ -59,3 +64,8 @@ hexo s --debug
 * make homepage not the blog
 * make grid on homepage
 * make featured image appear in categories or tags page
+
+
+# New project
+hexo new "A Project"
+
