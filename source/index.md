@@ -1,6 +1,6 @@
----
-title: CUSTOM FRONTPAGE
+title: Portfolio Site (N. Ouyang)
 layout: frontpage
+date: 2018-05-27 16:32:58
 ---
 THIS IS A CUSTOM FRONT PAGE
 
