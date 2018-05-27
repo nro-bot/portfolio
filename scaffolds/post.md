@@ -1,5 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+categories: 
+  - Other
+tags: 
+blurb: One sentence project description
+featured_image:
 ---
