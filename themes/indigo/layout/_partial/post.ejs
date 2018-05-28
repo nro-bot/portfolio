@@ -3,6 +3,7 @@
   class="post-article article-type-<%= post.layout %> fade" itemprop="blogPost">
 
     <div class="post-card">
+        <% /* %><%- partial('post/image') %><% */ %>
         <h1 class="post-card-title"><%- post.title %></h1>
         <div class="post-meta">
             <%- partial('post/date', {date_format: config.date_format}) %>

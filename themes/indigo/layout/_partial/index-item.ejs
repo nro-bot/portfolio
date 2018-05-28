@@ -12,7 +12,8 @@
 
 
     <% if (post.featured_image){ %>
-        <img src="<%- post.featured_image %>" width="400">
+        <img src="<%- url_for(post.path) %><%- post.featured_image %>" width="400">
+        <% /* %><img src="<%- url_for(post.featured_image) %>" width="400"> <% */ %>
         <br>
     <% } %>
     ...
