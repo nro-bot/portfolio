@@ -1,10 +1,14 @@
-title: Portfolio Site (N. Ouyang)
+title: Nancy Ouyang, Roboticist
 layout: frontpage
 date: 2018-05-27 16:32:58
 ---
-THIS IS A CUSTOM FRONT PAGE
 
-As you can see, there is no blog index on this page.
+Hi. I'm Nancy Ouyang, I'm an engineer, entrepreneur, and a roboticist.
+This website displays some of my projects throughout the years.
+
+I graduated from MIT in 2013 with a degree in Mechanical Engineering.
+
+Here's a picture of me as a bluewater sailor.
 
 ## Quick Start
 

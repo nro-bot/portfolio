@@ -16,7 +16,7 @@
         var title = page.title;
 
         if (is_archive()){
-            title = theme.archives_title || 'Archives';
+            title = theme.archives_title || '';
 
             if (is_month()){
             title += ': ' + page.year + '/' + page.month;

@@ -22,6 +22,12 @@ menu:
   th-list:
     text: By Category 
     url: /categories
+  real-person-things:
+    text: Real Person Things 
+    url: /real-person-things
+  hobbies:
+    text: Hobbies 
+    url: /hobbies
   #github:
     #url: https://github.com/nouyang
     #target: _blank
@@ -33,11 +39,12 @@ menu:
     #url: /custom
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/face.jpg
+header_background: /img/header_calipers.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.jpg
+brand: /img/robot_fix2.jpg
 # favicon
 favicon: /img/favicon_hex_n.ico
 
@@ -49,8 +56,8 @@ color: '#FF9900'
 
 # 页面标题
 tags_title: Tags
-archives_title: Archives
-categories_title: Categories
+archives_title: Projects by Date
+categories_title: Projects by Category 
 
 # 文章截断
 excerpt_render: true  # determines whether to strip to plaintext or render the excerpt 
@@ -144,7 +151,7 @@ hyper_id: false
 canonical: false
 
 # 版权起始年份
-since_year: 2017
+since_year: 2018
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
 about: lentils #用户页面中作者相关的描述性文字，如不需要设为 false
