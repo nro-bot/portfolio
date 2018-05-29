@@ -97,3 +97,13 @@ Here's a picture of me as a bluewater sailor.
 if only one featured imgae and a lot of others, in the archive view, the "cards"
 will overlap on initial page load (find after resize window)
 
+
+
+# notes to self
+
+```
+<video width="601" height="338" controls>
+  <source src="../img/11/1101/1101.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
+```
