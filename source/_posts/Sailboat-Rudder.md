@@ -11,6 +11,7 @@ test123
 
 ![a rudder](1501_rudder.jpg)
 
+![a rudder](shopbot_table.jpg)
 test
 
 file:///home/nrw/Documents/projects_Spring2018/portfolio/source/_posts/Sailboat-Rudder/1501_rudder.jpg

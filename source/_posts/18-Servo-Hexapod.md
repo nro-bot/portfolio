@@ -1,6 +1,6 @@
 title: 18 Servo Hexapod
 categories:
-  - Other
+  - MechE
 blurb: 'ABS plastic, 18 RC servos, Pololu serial servo controller. Tripod gait'
 tags: []
 date: 2011-05-27 15:55:00

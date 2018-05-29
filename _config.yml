@@ -4,8 +4,8 @@
 
 # Site
 title: Nancy Ouyang 
-subtitle: Portfolio 
-description: tis a little showcase of my projects
+subtitle: A little showcase of my projects 
+description: Engineering 
 keywords:
 author: Nancy Ouyang 
 language: en
@@ -64,8 +64,9 @@ tag_map:
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+#0# http://momentjs.com/docs/#/displaying/format/
+#date_format: YYYY-MM-DD
+date_format: YYYY MMMM
 time_format: HH:mm:ss
 
 # Pagination

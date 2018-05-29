@@ -1,26 +1,34 @@
-title: Nancy Ouyang, Roboticist
+title: 'Warning: Robots Inside'
 layout: frontpage
 date: 2018-05-27 16:32:58
 ---
 
-Hi. I'm Nancy Ouyang, I'm an engineer, entrepreneur, and a roboticist.
-This website displays some of my projects throughout the years.
+# Hi, I'm Nancy Ouyang. 
 
-I graduated from MIT in 2013 with a degree in Mechanical Engineering.
+<div style="font-size:1.5em; text-align:center"> I’m an engineer, entrepreneur, and a roboticist (whoo robots!). I'm currently pursuing a PhD in computer science at Harvard. Previously, I studied mechanical engineering from MIT, graduating in 2013.</div>
 
-Here's a picture of me as a bluewater sailor.
 
-## Quick Start
+<!--My major hobby at the moment is bluewater sailing, and I hope to sail across the Atlantic by the time I graduate. -->
 
-[I'm a relative reference to a repository file](../tags)
-
+<!--[I'm a relative reference to a repository file](./categories)-->
+<hr>
+# Featured Projects
 
 <div class="flex-row">
-  <div class="flex-col card">1 test <a href="../tags"><strong>Project 1</a> test
+  <div class="flex-col card"><a href="../tags"><strong>HQ Trivia App</strong></a> 
   </div>
-  <div class="flex-col card">2
+  <div class="flex-col card"><a href="../2015/05/27/Sailboat-Rudder"><strong>Sailboat Rudder</strong></a>
+![Rudder built from scratch for a 26\' sailboat](./2015/05/27/Sailboat-Rudder/shopbot_table.jpg)
   </div>
-  <div class="flex-col card">3
+  <div class="flex-col card"><a href="../tags"><strong>NarwhalEdu Startup</strong></a> 
   </div>
 </div>
+
+
+<hr>
+## For more, view projects by category or date:
+
+## \> [By category](./categories)
+## \> [By date](./archives)    
+
 

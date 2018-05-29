@@ -85,8 +85,15 @@ Set blurb and featured_image in the frontmatter
 
 Homepage:
 Hi. I'm Nancy Ouyang, I'm an engineer and a roboticist.
-On this website, you can find some of my works. 
+On this website, you can find some of my projects presented as a portfolio. They
+can be viewed chronologically, or by category (primarily mechanical engineering,
 
 I graduated from MIT in 2013 with a degree in Mechanical Engineering.
 Here's a picture of me as a bluewater sailor.
+
+
+# Bugs 
+
+if only one featured imgae and a lot of others, in the archive view, the "cards"
+will overlap on initial page load (find after resize window)
 
