@@ -15,9 +15,9 @@ date: 2018-05-27 16:32:58
 # Featured Projects
 
 <div class="flex-row">
-  <div class="flex-col card"><a href="2013/05/NarwhalEdu-Kickstarter"><strong>NarwhalEdu Startup</strong></a> </div>
+  <div class="flex-col card"><a href="2013/05/NarwhalEdu-Kickstarter"><strong>NarwhalEdu Startup</strong></a> ![Successful kickstarter for my startup: combining hands-on kits wit online classes to teach creative engineering](./2013/05/NarwhalEdu-Kickstarter/kickstarter.jpg) </div>
   <div class="flex-col card"> <a href="2015/05/Sailboat-Rudder"><strong>Sailboat Rudder</strong> ![Rudder built from scratch for a 26\' sailboat](./2015/05/Sailboat-Rudder/shopbot_table.jpg) </a>
-  </div> <div class="flex-col card"><a href="../tags"><strong>HQ Trivia App</strong></a> </div>
+  </div> <div class="flex-col card"><a href="../tags"><strong>HQ Trivia App</strong> TBD </a> </div>
 </div>
 
   <!--[Sailboat Rudder](./2015/05/05/Sailboat-Rudder)-->
@@ -27,10 +27,5 @@ date: 2018-05-27 16:32:58
 
 ## \> [By category](./categories)
 ## \> [By date](./archives)    
-
-
-    <% if (post.featured_image){ %>
-        <br>
-    <% } %>
 
 

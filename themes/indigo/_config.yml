@@ -25,6 +25,9 @@ menu:
   real-person-things:
     text: Real Person Things 
     url: /real-person-things
+  contact-me:
+    text: Contact Me 
+    url: /contact-me
   #hobbies:
     #text: Hobbies 
     #url: /hobbies
