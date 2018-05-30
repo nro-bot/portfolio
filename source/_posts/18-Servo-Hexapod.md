@@ -11,7 +11,6 @@ featured_image: complete.jpg
 
 
 <!--[](design_of_hexapods.webm)-->
-
 <!--[](tripod_gait.webm)-->
 
 Inspired by videos of dancing hexapod competitions, I built an 18-servo hexapod and programmed it by myself. It was made of ABS plastic, 18 servos, an Arduino nano, and a Pololu serial servo controller. With Prof. Dan Frey's permission, I substited this independent project for the normal coursework for Design and Manufacturing I. The hexapod used the tripod gait to walk and turn around.

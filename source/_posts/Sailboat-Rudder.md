@@ -1,31 +1,34 @@
 title: Sailboat Rudder
 categories:
-  - Other
+  - MechE 
 blurb: ' Made 26'' boat rudder from scratch (minus bronze skeleton).'
 tags: []
 date: 2015-05-27 15:59:00
-featured_image:
+featured_image: shopbot_table.jpg
 ---
-test 
-test123
-
-![a rudder](1501_rudder.jpg)
-
-![a rudder](shopbot_table.jpg)
-test
-
-file:///home/nrw/Documents/projects_Spring2018/portfolio/source/_posts/Sailboat-Rudder/1501_rudder.jpg
 
 
-![upload so great](/_posts/Sailboat-Rudder/image.png)
+I taught myself how to work with composites and built a replacement rudder for 26 foot sailboat. I created a two-part CNC foam mold and used fiberglass, epoxy, and two-part expanding foam. With help applying the fiberglass from Ilia Lebedev and other friends. Lead shot was used to balance the rudder (as the foam was less than neutrally buoyant in water) and fiberglass blocks tacked to the outer shell were used to pre-stress the internal bronze skeleton (salvaged from the old rudder).
 
+What I did: CADing the original rudder, assisted excavation of original rudder, coming up with a plan for how to recreate the rudder, shopbot milling, large majority of composite layup by myself, assisted gel coating and fairing, assisted dremel work on installation of rudder
 
-sdfsf
+The STL files may be found on Github.
+https://github.com/nouyang/scienceboat/blob/master/boatrudder.STL
 
+![](shopbot_table.jpg)
 
-file:///home/nrw/Documents/projects_Spring2018/portfolio/source/_posts/Sailboat-Rudder/image.png
+Mold halves were aligned with small pieces of PVC
+![](mold_halves.jpg)
 
-![upload successful](/images/image2.png)
+Outside three layers of glass applied. Pre-stressed bronze skeleton, ballast added
+![](filling_mold.jpg)
 
-file:///home/nrw/Documents/projects_Spring2018/portfolio/source/_posts/Sailboat-Rudder/image.png
-![upload successful](/images/image3.png)
+Mold leaned vertically on a wall. Holes were drilled into fiberglass at regular intervals and two-part foam mix poured in, where it expanded about sixty seconds after mixing (with a drill).
+
+![](vertical_pour.jpg)
+
+De-molded rudder
+![](demolded.jpg)
+
+Rudder re-attached to boat 
+![](installed_rudder.jpg)

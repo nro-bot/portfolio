@@ -10,12 +10,20 @@
             <%- partial('post/category') %>
             <%- partial('plugins/page-visit') %>
         </div>
+
+    <% if (post.blurb){ %>
+    <div class="blockquote">
+    <%- post.blurb %>
+    </div>
+    <% } %>
+
         <hr>
         <div class="post-content" id="post-content" itemprop="postContent">
             <%- post.content %>
         </div>
 
         <%- partial('post/copyright') %>
+        <%- partial('post/reward-btn') %>
 
         <div class="post-footer">
             <%- partial('post/tag') %>
@@ -30,3 +38,6 @@
     <%- partial('post/comment') %>
 </article>
 <%- partial('post/reward') %>
+
+
+

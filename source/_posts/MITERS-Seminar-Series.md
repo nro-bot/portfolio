@@ -1,6 +1,6 @@
 title: MITERS Seminar Series
 categories:
-  - Other
+  - Other 
 blurb: >-
   Organized and co-taught workshops to introduce people to prototyping skills
   such as Solidworks,  breadboarding, EAGLE, ordering boards, and more, reaching
