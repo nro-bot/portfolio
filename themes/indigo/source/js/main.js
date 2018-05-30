@@ -447,12 +447,14 @@
 
     w.addEventListener('load', function () {
         loading.classList.remove('active');
+        //nouyang edit! Calling after load, fixes issue where inital card layout overlaps
         Blog.page.loaded();
         w.lazyScripts && w.lazyScripts.length && Blog.loadScript(w.lazyScripts)
+        Blog.waterfall();
     });
 
     w.addEventListener('DOMContentLoaded', function () {
-        Blog.waterfall();
+        //Blog.waterfall();
         var top = rootScollTop();
         Blog.toc.fixed(top);
         Blog.toc.actived(top);
