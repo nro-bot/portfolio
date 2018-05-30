@@ -100,8 +100,8 @@
     
     <entry>
       <title>Feminism Hackathon (Hack4Fem)</title>
-      <link href="/portfolio/2015/11/Feminism-Hackathon-Hack4Fem/"/>
-      <url>/portfolio/2015/11/Feminism-Hackathon-Hack4Fem/</url>
+      <link href="/portfolio/2015/05/Feminism-Hackathon-Hack4Fem/"/>
+      <url>/portfolio/2015/05/Feminism-Hackathon-Hack4Fem/</url>
       <content type="html"><![CDATA[<p>Our speakers came from MIT Medical and the Boston Doula Project and we had over forty attendees.<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="choose_your_own_adventure.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="flowchart.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hack4fem_logo.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hack4fem_participants.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="movie_database.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="stick_figures.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
       
       <categories>
@@ -159,21 +159,6 @@
     </entry>
     
     <entry>
-      <title>6.01x Robots</title>
-      <link href="/portfolio/2014/05/6-01x-Robots/"/>
-      <url>/portfolio/2014/05/6-01x-Robots/</url>
-      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="complete.jpg" alt="The" title="">                </div>                <div class="image-caption">The</div>            </figure><p>With cofounder, took on $25k of contract work to replace the $5k robots in MIT’s<br>introductory EECS class with $200 robots that we developed. We finished an<br>initial set of prototypes in the timeframe given.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="internals.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="CAD.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
-      
-      <categories>
-          
-          <category> EECS </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
       <title>Sailboat Repairs</title>
       <link href="/portfolio/2014/05/Sailboat-Repairs/"/>
       <url>/portfolio/2014/05/Sailboat-Repairs/</url>
@@ -182,6 +167,21 @@
       <categories>
           
           <category> Hobbies </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>6.01x Robots</title>
+      <link href="/portfolio/2014/05/6-01x-Robots/"/>
+      <url>/portfolio/2014/05/6-01x-Robots/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="complete.jpg" alt="The" title="">                </div>                <div class="image-caption">The</div>            </figure><p>With cofounder, took on $25k of contract work to replace the $5k robots in MIT’s<br>introductory EECS class with $200 robots that we developed. We finished an<br>initial set of prototypes in the timeframe given.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="internals.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="CAD.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> EECS </category>
           
       </categories>
       
@@ -204,14 +204,14 @@
     </entry>
     
     <entry>
-      <title>LED Graduation Cap</title>
-      <link href="/portfolio/2013/05/LED-Graduation-Cap/"/>
-      <url>/portfolio/2013/05/LED-Graduation-Cap/</url>
-      <content type="html"><![CDATA[<!--1303.webm--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="trying_on.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>For my graduation cap, I used RGB LED strips to spell out “MIT” and then used a simple fade effect to display all the colors. The breadboard was potted in hot glue and a lipo velcro’d to the underside as well.</p><p>Top view<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cap.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Side view<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="side_view.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Video </p><p><div style="padding:66.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710630?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p><p><a href="https://vimeo.com/264710630" target="_blank" rel="noopener">RGB LED graduation cap</a> from <a href="https://vimeo.com/user83975514" target="_blank" rel="noopener">nouyang</a> on <a href="https://vimeo.com" target="_blank" rel="noopener">Vimeo</a>.</p><p>Blog post with more information<br><a href="http://www.orangenarwhals.com/2013/06/rgb-led-graduation-cap-shenanigans-mit-graduation-report" target="_blank" rel="noopener"></a></p>]]></content>
+      <title>EL Wire Workshop</title>
+      <link href="/portfolio/2013/05/EL-Wire-Workshop/"/>
+      <url>/portfolio/2013/05/EL-Wire-Workshop/</url>
+      <content type="html"><![CDATA[<p>With three others, organized and taught electroluminescent clothing workshop for five MIT undergraduates (for the deFlorez humor fund grant)</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hat.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="students.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="testing_fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
       
       <categories>
           
-          <category> EE </category>
+          <category> Leadership </category>
           
       </categories>
       
@@ -234,14 +234,14 @@
     </entry>
     
     <entry>
-      <title>EL Wire Workshop</title>
-      <link href="/portfolio/2013/05/EL-Wire-Workshop/"/>
-      <url>/portfolio/2013/05/EL-Wire-Workshop/</url>
-      <content type="html"><![CDATA[<p>With three others, organized and taught electroluminescent clothing workshop for five MIT undergraduates (for the deFlorez humor fund grant)</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hat.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="students.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="testing_fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      <title>LED Graduation Cap</title>
+      <link href="/portfolio/2013/05/LED-Graduation-Cap/"/>
+      <url>/portfolio/2013/05/LED-Graduation-Cap/</url>
+      <content type="html"><![CDATA[<!--1303.webm--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="trying_on.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>For my graduation cap, I used RGB LED strips to spell out “MIT” and then used a simple fade effect to display all the colors. The breadboard was potted in hot glue and a lipo velcro’d to the underside as well.</p><p>Top view<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cap.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Side view<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="side_view.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Video </p><p><div style="padding:66.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710630?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p><p><a href="https://vimeo.com/264710630" target="_blank" rel="noopener">RGB LED graduation cap</a> from <a href="https://vimeo.com/user83975514" target="_blank" rel="noopener">nouyang</a> on <a href="https://vimeo.com" target="_blank" rel="noopener">Vimeo</a>.</p><p>Blog post with more information<br><a href="http://www.orangenarwhals.com/2013/06/rgb-led-graduation-cap-shenanigans-mit-graduation-report" target="_blank" rel="noopener"></a></p>]]></content>
       
       <categories>
           
-          <category> Leadership </category>
+          <category> EE </category>
           
       </categories>
       
@@ -309,21 +309,6 @@
     </entry>
     
     <entry>
-      <title>Sewing and Crafts</title>
-      <link href="/portfolio/1010/05/Sewing-and-Crafts/"/>
-      <url>/portfolio/1010/05/Sewing-and-Crafts/</url>
-      <content type="html"><![CDATA[<p>Infinity dresses, Cosplay, OSHW dress, skirt, shirt + tatt, pom poms</p><h3 id="pompoms"><a href="#pompoms" class="headerlink" title="pompoms"></a>pompoms</h3><p><a href="http://www.orangenarwhals.com/2018/01/pom-poms-galore/" target="_blank" rel="noopener">http://www.orangenarwhals.com/2018/01/pom-poms-galore/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="pompom_alphabet_failures_aaaaaa.jpg" alt="Pom pom design (spherical projection) -- iterations of letter " a""="" title="">                </div>                <div class="image-caption">Pom pom design (spherical projection) -- iterations of letter "A"</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="neko" alt="Cute pom pom (much eaiser)" title="cat">                </div>                <div class="image-caption">cat</div>            </figure></p><h2 id="Clothing"><a href="#Clothing" class="headerlink" title="Clothing"></a>Clothing</h2><h3 id="Infinity-Dress"><a href="#Infinity-Dress" class="headerlink" title="Infinity Dress"></a>Infinity Dress</h3><p><a href="http://www.instructables.com/id/Infinity-Dress/" target="_blank" rel="noopener">http://www.instructables.com/id/Infinity-Dress/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="infinity_4pieces.jpg" alt="2nd sewing project, Infinity Dress -- only takes 4 pieces" title="">                </div>                <div class="image-caption">2nd sewing project, Infinity Dress -- only takes 4 pieces</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="robots2016.jpg" alt="Final Infinity Dress" title="">                </div>                <div class="image-caption">Final Infinity Dress</div>            </figure></p><h3 id="Cosplay"><a href="#Cosplay" class="headerlink" title="Cosplay"></a>Cosplay</h3><p>Cosplay (first sewing project) of Lie Ren<br><!--back_view.jpg--><br><!--epoxy_jig.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pic.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/group_pose_action.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pose_salute.jpg--><br><!--hem.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/mannequin.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--newspaper.jpg--><br><!--spraypaint.jpg--><br><!--tshirt_wIp.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/spraypaint.jpg" alt="Lasercut, epoxied, and spray-painted weapon for cosplay" title="">                </div>                <div class="image-caption">Lasercut, epoxied, and spray-painted weapon for cosplay</div>            </figure></p><h3 id="Rainbow-dress"><a href="#Rainbow-dress" class="headerlink" title="Rainbow dress"></a>Rainbow dress</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="right_oshw_speaker.jpg" alt="Rainbow dyed DIY dress for Open Source Hardware Summit" title="">                </div>                <div class="image-caption">Rainbow dyed DIY dress for Open Source Hardware Summit</div>            </figure><h2 id="Other-fashion"><a href="#Other-fashion" class="headerlink" title="Other fashion"></a>Other fashion</h2><h3 id="Nails"><a href="#Nails" class="headerlink" title="Nails"></a>Nails</h3><p>Hydrographic Printing 3d prints:<br><a href="https://www.youtube.com/watch?v=YlUhPrAqiY0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=YlUhPrAqiY0</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_water.jpg" alt="Marbled paints" title="">                </div>                <div class="image-caption">Marbled paints</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_nails.jpg" alt="Hydrographic transfer of nail polish" title="">                </div>                <div class="image-caption">Hydrographic transfer of nail polish</div>            </figure></p><h3 id="Flat-cut-heels-didn’t-succeed"><a href="#Flat-cut-heels-didn’t-succeed" class="headerlink" title="Flat-cut heels (didn’t succeed)"></a>Flat-cut heels (didn’t succeed)</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/final_bend.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><!--initial_heat.jpg--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/lasercutter_stencil.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><h3 id="Stamping-plates"><a href="#Stamping-plates" class="headerlink" title="Stamping plates"></a>Stamping plates</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="nail_stamping.jpg" alt="Nail stamping plates, laser-etched" title="">                </div>                <div class="image-caption">Nail stamping plates, laser-etched</div>            </figure>]]></content>
-      
-      <categories>
-          
-          <category> Hobbies </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
       <title>Sailing and Other Adventures</title>
       <link href="/portfolio/1010/05/Sailing-and-Other-Adventures/"/>
       <url>/portfolio/1010/05/Sailing-and-Other-Adventures/</url>
@@ -332,6 +317,21 @@
       <categories>
           
           <category> Other </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Sewing and Crafts</title>
+      <link href="/portfolio/1010/05/Sewing-and-Crafts/"/>
+      <url>/portfolio/1010/05/Sewing-and-Crafts/</url>
+      <content type="html"><![CDATA[<p>Infinity dresses, Cosplay, OSHW dress, skirt, shirt + tatt, pom poms</p><h3 id="pompoms"><a href="#pompoms" class="headerlink" title="pompoms"></a>pompoms</h3><p><a href="http://www.orangenarwhals.com/2018/01/pom-poms-galore/" target="_blank" rel="noopener">http://www.orangenarwhals.com/2018/01/pom-poms-galore/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="pompom_alphabet_failures_aaaaaa.jpg" alt="Pom pom design (spherical projection) -- iterations of letter " a""="" title="">                </div>                <div class="image-caption">Pom pom design (spherical projection) -- iterations of letter "A"</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="neko" alt="Cute pom pom (much eaiser)" title="cat">                </div>                <div class="image-caption">cat</div>            </figure></p><h2 id="Clothing"><a href="#Clothing" class="headerlink" title="Clothing"></a>Clothing</h2><h3 id="Infinity-Dress"><a href="#Infinity-Dress" class="headerlink" title="Infinity Dress"></a>Infinity Dress</h3><p><a href="http://www.instructables.com/id/Infinity-Dress/" target="_blank" rel="noopener">http://www.instructables.com/id/Infinity-Dress/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="infinity_4pieces.jpg" alt="2nd sewing project, Infinity Dress -- only takes 4 pieces" title="">                </div>                <div class="image-caption">2nd sewing project, Infinity Dress -- only takes 4 pieces</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="robots2016.jpg" alt="Final Infinity Dress" title="">                </div>                <div class="image-caption">Final Infinity Dress</div>            </figure></p><h3 id="Cosplay"><a href="#Cosplay" class="headerlink" title="Cosplay"></a>Cosplay</h3><p>Cosplay (first sewing project) of Lie Ren<br><!--back_view.jpg--><br><!--epoxy_jig.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pic.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/group_pose_action.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pose_salute.jpg--><br><!--hem.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/mannequin.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--newspaper.jpg--><br><!--spraypaint.jpg--><br><!--tshirt_wIp.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/spraypaint.jpg" alt="Lasercut, epoxied, and spray-painted weapon for cosplay" title="">                </div>                <div class="image-caption">Lasercut, epoxied, and spray-painted weapon for cosplay</div>            </figure></p><h3 id="Rainbow-dress"><a href="#Rainbow-dress" class="headerlink" title="Rainbow dress"></a>Rainbow dress</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="right_oshw_speaker.jpg" alt="Rainbow dyed DIY dress for Open Source Hardware Summit" title="">                </div>                <div class="image-caption">Rainbow dyed DIY dress for Open Source Hardware Summit</div>            </figure><h2 id="Other-fashion"><a href="#Other-fashion" class="headerlink" title="Other fashion"></a>Other fashion</h2><h3 id="Nails"><a href="#Nails" class="headerlink" title="Nails"></a>Nails</h3><p>Hydrographic Printing 3d prints:<br><a href="https://www.youtube.com/watch?v=YlUhPrAqiY0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=YlUhPrAqiY0</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_water.jpg" alt="Marbled paints" title="">                </div>                <div class="image-caption">Marbled paints</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_nails.jpg" alt="Hydrographic transfer of nail polish" title="">                </div>                <div class="image-caption">Hydrographic transfer of nail polish</div>            </figure></p><h3 id="Flat-cut-heels-didn’t-succeed"><a href="#Flat-cut-heels-didn’t-succeed" class="headerlink" title="Flat-cut heels (didn’t succeed)"></a>Flat-cut heels (didn’t succeed)</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/final_bend.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><!--initial_heat.jpg--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/lasercutter_stencil.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><h3 id="Stamping-plates"><a href="#Stamping-plates" class="headerlink" title="Stamping plates"></a>Stamping plates</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="nail_stamping.jpg" alt="Nail stamping plates, laser-etched" title="">                </div>                <div class="image-caption">Nail stamping plates, laser-etched</div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Hobbies </category>
           
       </categories>
       
