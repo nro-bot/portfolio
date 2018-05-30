@@ -15,7 +15,7 @@ date: 2018-05-27 16:32:58
 # Featured Projects
 
 <div class="flex-row">
-  <div class="flex-col card"><a href="../tags"><strong>NarwhalEdu Startup</strong></a> </div>
+  <div class="flex-col card"><a href="2013/05/NarwhalEdu-Kickstarter"><strong>NarwhalEdu Startup</strong></a> </div>
   <div class="flex-col card"> <a href="2015/05/Sailboat-Rudder"><strong>Sailboat Rudder</strong> ![Rudder built from scratch for a 26\' sailboat](./2015/05/Sailboat-Rudder/shopbot_table.jpg) </a>
   </div> <div class="flex-col card"><a href="../tags"><strong>HQ Trivia App</strong></a> </div>
 </div>

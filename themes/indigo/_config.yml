@@ -25,9 +25,9 @@ menu:
   real-person-things:
     text: Real Person Things 
     url: /real-person-things
-  hobbies:
-    text: Hobbies 
-    url: /hobbies
+  #hobbies:
+    #text: Hobbies 
+    #url: /hobbies
   #github:
     #url: https://github.com/nouyang
     #target: _blank
