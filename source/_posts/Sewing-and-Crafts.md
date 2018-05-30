@@ -1,6 +1,6 @@
 title: Sewing and Crafts
 categories:
-  - Other
+  - Hobbies 
 blurb: 'Infinity dresses, Cosplay, OSHW dress, skirt, shirts reused, pom poms'
 tags: []
 date: 1010-05-27 17:08:00

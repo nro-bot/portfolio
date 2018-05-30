@@ -1,4 +1,3 @@
----
 title: Countertop Vending Machine
 categories:
   - EECS 
@@ -9,7 +8,6 @@ featured_image: countertop_vending.jpg
 ---
 
 ![](countertop_vending.jpg)
-
 
 What: Small vending machine to stock Arduinos in our makerspace.
 Who: Lathe spring-making technique from Instructables, all else by me.
