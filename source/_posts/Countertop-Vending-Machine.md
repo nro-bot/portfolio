@@ -2,7 +2,7 @@ title: Countertop Vending Machine
 categories:
   - EECS 
 blurb: 'Small vending machine to stock Arduinos in student-run machine shop at MIT'
-date: 2018-05-27 16:36:45
+date: 2011-05-27 16:36:45
 tags:
 featured_image: countertop_vending.jpg
 ---

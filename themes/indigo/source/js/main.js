@@ -454,7 +454,7 @@
     });
 
     w.addEventListener('DOMContentLoaded', function () {
-        //Blog.waterfall();
+        Blog.waterfall(); // seems necessary for actual deploy? 
         var top = rootScollTop();
         Blog.toc.fixed(top);
         Blog.toc.actived(top);
