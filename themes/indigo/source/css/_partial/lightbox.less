@@ -30,13 +30,13 @@
             right: 0;
             bottom: 0;
             z-index: 900;
-            height: 40px;
+            /*height: 40px;*/
             line-height: 40px;
             color: #fff;
             opacity: 0;
             .transform(translate3d(0, 30px, 0));
             .transition(.3s);
-            font-size: 1.5em;
+            font-size: 1.2em;
         }
     }
 
@@ -49,10 +49,11 @@
         }
         .overlay,
         .overlay-title {
-            opacity: 0.9 
+            opacity: 0.9; 
         }
         .overlay-title {
             .transform(translate3d(0, -20px, 0));
+            background: @darkPrimaryColor;
         }
     }
 
@@ -67,4 +68,3 @@
         }
     }
 }
-
