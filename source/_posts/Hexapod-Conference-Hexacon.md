@@ -11,8 +11,6 @@ featured_image: shirt.jpg
 
 *May 2013*
 
-![](../img/13/1302/1302.jpg)
-
 I won a de Florez Fund for Humor grant to organize Hexacon, the world's first hexapod conference, with over thirty attendees, including Prof. Sangbae Kim from MIT and Prof. Aaron Hoover from Olin as speakers. For the conference, I lasercut hexapod earrings and also made paper hexapod kits using the designs from the Biomimetic Millisystems Lab at Berkeley.
 
 **What I did**:
