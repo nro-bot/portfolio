@@ -54,6 +54,7 @@ git clone https://github.com/theme-next/hexo-theme-next themes/next
 
 # Quickstart
 
+```
 cd portfolio
 hexo clean; hexo gen -w
 hexo s --debug -p 4000
@@ -65,6 +66,7 @@ localhost:9000 --> edit pages (set featured image, blurb, exercept, full post, e
 
 cd portfolio
 hexo deploy
+```
 
 
 # Todo
