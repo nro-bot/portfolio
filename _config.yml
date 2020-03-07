@@ -86,8 +86,8 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/nouyang/portfolio
-  branch: gh-pages
+  repo: https://github.com/nouyang/nouyang.github.io
+  branch: master 
   message: 
 
 metadata: #for hexo-admin
