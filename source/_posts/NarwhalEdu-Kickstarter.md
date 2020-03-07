@@ -12,7 +12,7 @@ featured_image: kickstarter.jpg
 
 ![](kickstarter.jpg)
 
-After graduating, I recruited my friend Cappie Pomeroy, and together we founded an educational company, NarwhalEdu, to highlight the creative side of engineering. **Our class, “Introduction to Engineering,” was accompanied by a drawing robot arm of our own design, and raised over twenty thousand dollars on Kickstarter while reaching over ninety students around the world.**
+After graduating, I recruited my friend Cappie Pomeroy. Together we founded an educational company, NarwhalEdu, to highlight the creative side of engineering. **Our class, “Introduction to Engineering,” was accompanied by a drawing robot arm of our own design, and raised over twenty thousand dollars on Kickstarter while reaching over ninety students around the world.**
 
 We taught it on EdX with the permission of MIT's Director of Digital Learning, Prof. Sanjay Sarma. We shipped ninety robotics kits on time and on-budget. Hanna Lin helped with the mechanical design and more over Summer 2013.
 
