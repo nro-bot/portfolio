@@ -87,6 +87,7 @@ theme: indigo
 deploy:
   type: git
   repo: git@github.com:nouyang/nouyang.github.io.git
+  #repo: https://github.com/nouyang/nouyang.github.io.git
   branch: master 
   message: 
 
@@ -95,4 +96,4 @@ metadata: #for hexo-admin
   featured_image:
 
 featured_image:
-  absolute_path_reference: true
+    #absolute_path_reference: true
