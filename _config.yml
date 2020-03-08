@@ -86,10 +86,13 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/nouyang/nouyang.github.io
+  repo: git@github.com:nouyang/nouyang.github.io.git
   branch: master 
   message: 
 
 metadata: #for hexo-admin
   blurb:
   featured_image:
+
+featured_image:
+  absolute_path_reference: true
