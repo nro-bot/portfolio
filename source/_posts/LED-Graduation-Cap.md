@@ -24,3 +24,6 @@ Video
 
 Blog post with more information
 [](http://www.orangenarwhals.com/2013/06/rgb-led-graduation-cap-shenanigans-mit-graduation-report)
+
+
+
