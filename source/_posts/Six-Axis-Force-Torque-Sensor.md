@@ -7,13 +7,14 @@ tags:
 featured_image: photo_sensor_intro_labelled.png 
 ---
 
+![Diagram of sensor with key components](photo_sensor_intro_labelled.png)
+
 Video of the sensor displaying one axis:
 <center><video id="sensor_demo" src="sensor_demo.webm" type="video/webm"
 controls autoplay muted>
   Your browser does not support the video HTML5 tag.
 </video></center>
 
-![Diagram of sensor with key components](photo_sensor_intro_labelled.png)
 
 Related Links:
 - For more information, see [paper website](https://sites.google.com/view/fiducialforcesensor). 
