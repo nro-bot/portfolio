@@ -9,7 +9,7 @@ Or if that bounces, this should work in perpetuity:
 firstinitiallastname@alum.mit.edu
 
 * I am on github at: [Github](https://github.com/nouyang/)
-* LinkedIn at: [LinkedIn](https://www.linkedin.com/nouyang)
+* LinkedIn at: [LinkedIn](https://www.linkedin.com/in/nrobot/)
 * My blog (not professional at all!) is at [orangenarwhals.com](http://orangenarwhals.com)
 * Finally, this portfolio should be located at [nancyouyang.com](http://nancyouyang.com)
 
