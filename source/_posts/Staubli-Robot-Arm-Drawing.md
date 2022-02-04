@@ -3,7 +3,7 @@ categories:
   - CS 
 blurb: 'Staubli robot arm, programmed to stipple with vcode -> gcode -> processing (or alternatively via SVG Inkscape to gcode converter).'
 tags: []
-date: 2016-05-27 15:59:00
+date: 2016-01-27 15:59:00
 featured_image: arm_self_portrait.jpg
 ---
 
