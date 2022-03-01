@@ -86,10 +86,11 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:nouyang/nouyang.github.io.git
-  #repo: https://github.com/nouyang/nouyang.github.io.git
-  branch: master 
+  repo: git@github.com:nouyang/portfolio.git
+  branch: gh-pages
   message: 
+  #repo: https://github.com/nouyang/portfolio
+  # See: https://github.com/nouyang/researchblog/blob/master/_config.yml
 
 metadata: #for hexo-admin
   blurb:
