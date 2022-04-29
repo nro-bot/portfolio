@@ -1,3 +1,6 @@
+only working branch is gh-pages-bkup - it does work. however is old - no ICRA etc.
+gh-pages has a bunch of empty .html files
+
 # portfolio
 
 Static site source code for my portfolio (circa 2018). The (master) branch is
