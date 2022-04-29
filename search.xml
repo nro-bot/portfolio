@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>ICRA Paper: Six-Axis Force-Torque Sensor</title>
+      <link href="/2020/03/Six-Axis-Force-Torque-Sensor/"/>
+      <url>/2020/03/Six-Axis-Force-Torque-Sensor/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="photo_sensor_intro_labelled.png" alt="Diagram of sensor with key components" title="">                </div>                <div class="image-caption">Diagram of sensor with key components</div>            </figure><p>Video of the sensor displaying one axis:</p><center><video id="sensor_demo" src="sensor_demo.webm" type="video/webm"controls autoplay muted><br>  Your browser does not support the video HTML5 tag.<br></video></center><p>Related Links:</p><ul><li>For more information, see <a href="https://sites.google.com/view/fiducialforcesensor">paper website</a>. </li></ul>]]></content>
+      
+      <categories>
+          
+          <category> Academia </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Portfolio Website</title>
+      <link href="/2018/05/Portfolio-Website/"/>
+      <url>/2018/05/Portfolio-Website/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hexo.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> CS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Wifi-Enabled Robots</title>
+      <link href="/2016/05/Wifi-Enabled-Robots/"/>
+      <url>/2016/05/Wifi-Enabled-Robots/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="robot.jpg" alt="Robot with ESP8266, motor breakout board, and battery pack, as well as quadcopter for size. Mechanical structure is off-the-shelf." title="">                </div>                <div class="image-caption">Robot with ESP8266, motor breakout board, and battery pack, as well as quadcopter for size. Mechanical structure is off-the-shelf.</div>            </figure> <figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="gui.png" alt="GUI available when connected over wifi to the ESP8266, which is acting as a server" title="">                </div>                <div class="image-caption">GUI available when connected over wifi to the ESP8266, which is acting as a server</div>            </figure><p>Related Links:</p><ul><li><a href="https://github.com/nouyang/robot_esp8266-12E">Code repository</a></li></ul>]]></content>
+      
+      <categories>
+          
+          <category> EECS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Staubli Robot Arm Drawing</title>
+      <link href="/2016/01/Staubli-Robot-Arm-Drawing/"/>
+      <url>/2016/01/Staubli-Robot-Arm-Drawing/</url>
+      <content type="html"><![CDATA[<p>Staubli arm donated to MITERS (MIT Electronics Research Society, a student-run hackerspace and<br>machine shop on campus) by Prof. Seth Teller. Documentation acquired from manufacturer and<br>reverse-engineering supplied by fellow MITERS people + London Hackerspace people.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="arm_self_portrait.jpg" alt="Staubli drawing itself" title="">                </div>                <div class="image-caption">Staubli drawing itself</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="arm_self_portrait_closeup.jpg" alt="Staubli self-portrait, completed" title="">                </div>                <div class="image-caption">Staubli self-portrait, completed</div>            </figure><video id ="Staubli demo" controls><br>  <source src="Staubli.mp4" type="video/mp4"><br>  Your browser does not support the video HTML5 tag.<br></video>  <p>Related links:</p><ul><li><a href="https://docs.google.com/document/d/1vdSw-iZRFmimktcsEaFfb6ou7YM_tejs_td4TqvhzcE/edit">Quick start documentation for MITERS arm</a></li><li><a href="https://github.com/MITERS/gdmux">Forked Repository</a></li><li><a href="https://drive.google.com/drive/folders/0B9r0HZeoMbmgVUZQdlpTS3o1cDg?usp=gmail">Staubli manuals and MITERS specific documentation</a></li><li><a href="https://vimeo.com/264710647">Staubli Robot Arm – SVG to GCode Drawing</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a></li></ul>]]></content>
+      
+      <categories>
+          
+          <category> CS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Feminism Hackathon (Hack4Fem)</title>
+      <link href="/2015/05/Feminism-Hackathon-Hack4Fem/"/>
+      <url>/2015/05/Feminism-Hackathon-Hack4Fem/</url>
+      <content type="html"><![CDATA[<p>Our speakers came from MIT Medical and the Boston Doula Project and we had over forty attendees.<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="choose_your_own_adventure.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="flowchart.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hack4fem_logo.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hack4fem_participants.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="movie_database.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="stick_figures.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Leadership </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Sailboat Rudder</title>
+      <link href="/2015/05/Sailboat-Rudder/"/>
+      <url>/2015/05/Sailboat-Rudder/</url>
+      <content type="html"><![CDATA[<p>I taught myself how to work with composites and built a replacement rudder for 26 foot sailboat. I created a two-part CNC foam mold and used fiberglass, epoxy, and two-part expanding foam. With help applying the fiberglass from Ilia Lebedev and other friends. Lead shot was used to balance the rudder (as the foam was less than neutrally buoyant in water) and fiberglass blocks tacked to the outer shell were used to pre-stress the internal bronze skeleton (salvaged from the old rudder).</p><p>What I did: CADing the original rudder, assisted excavation of original rudder, coming up with a plan for how to recreate the rudder, shopbot milling, large majority of composite layup by myself, assisted gel coating and fairing, assisted dremel work on installation of rudder</p><p>The STL files may be found on Github.<br><a href="https://github.com/nouyang/scienceboat/blob/master/boatrudder.STL">https://github.com/nouyang/scienceboat/blob/master/boatrudder.STL</a></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="shopbot_table.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>Mold halves were aligned with small pieces of PVC<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="mold_halves.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Outside three layers of glass applied. Pre-stressed bronze skeleton, ballast added<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="filling_mold.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Mold leaned vertically on a wall. Holes were drilled into fiberglass at regular intervals and two-part foam mix poured in, where it expanded about sixty seconds after mixing (with a drill).</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="vertical_pour.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>De-molded rudder<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="demolded.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Rudder re-attached to boat<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="installed_rudder.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
+      
+      <categories>
+          
+          <category> MechE </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>DIY Menstrual Cup</title>
+      <link href="/2015/05/DIY-Menstrual-Cup/"/>
+      <url>/2015/05/DIY-Menstrual-Cup/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hackathon_workshop.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="workshop_3dprinted_molds.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cast_menstrual_cup.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="CAD_cup.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="menstrualcup.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="CAD_mold.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> MechE </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>6.01x Robots</title>
+      <link href="/2014/05/6-01x-Robots/"/>
+      <url>/2014/05/6-01x-Robots/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="complete.jpg" alt="The" title="">                </div>                <div class="image-caption">The</div>            </figure><p>With cofounder, took on $25k of contract work to replace the $5k robots in MIT’s<br>introductory EECS class with $200 robots that we developed. We finished an<br>initial set of prototypes in the timeframe given.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="internals.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="CAD.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> EECS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Sailboat Repairs</title>
+      <link href="/2014/05/Sailboat-Repairs/"/>
+      <url>/2014/05/Sailboat-Repairs/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-trailer.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-boston.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-liveaboard.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-blisters.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-boston-night.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-fog2.jpeg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-launch.jpeg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="boat-fog.jpeg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Hobbies </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Kickstarter: Swarmbuddies</title>
+      <link href="/2014/05/Swarmbuddies/"/>
+      <url>/2014/05/Swarmbuddies/</url>
+      <content type="html"><![CDATA[<h1 id="Swarmbuddies"><a href="#Swarmbuddies" class="headerlink" title="Swarmbuddies"></a>Swarmbuddies</h1><center><video id="formation demo" controls autoplay muted loop><br>  <source src="formation_demo.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br>NarwhalEdu Swarmbuddies - formation demo<br></center><h1 id="Our-team"><a href="#Our-team" class="headerlink" title="Our team"></a>Our team</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="team.jpg" alt="The NarwhalEdu team, with summer interns" title="">                </div>                <div class="image-caption">The NarwhalEdu team, with summer interns</div>            </figure> <ul><li>Nancy and Cappie are MIT Class of 2013 mechanical engineers and co-founders of NarwhalEdu.</li><li>Will Kalb and June Kim are current MIT undergraduates helping us out over the summer.</li><li>Will Long, Pablo Fiori, and Chris Aring are high school students hanging out with us over the summer making sweet apps, demos, and videos.</li></ul><!--Smartphone control--><h1 id="Demos"><a href="#Demos" class="headerlink" title="Demos"></a>Demos</h1><h2 id="Point-‘n-click"><a href="#Point-‘n-click" class="headerlink" title="Point ‘n click"></a>Point ‘n click</h2><center><video id="line following" controls autoplay muted loop><br>  <source src="line-following.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br>NarwhalEdu Swarmbuddies - Single robot interactive (point ‘n click) control,<br>demo programmed by our intern Will Kalb<br></center><h2 id="Smartphone-Control"><a href="#Smartphone-Control" class="headerlink" title="Smartphone Control"></a>Smartphone Control</h2><center><br><video id="smartphone control" controls muted loop><br>  <source src="smartphone-control.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br>NarwhalEdu Swarmbuddies - Smartphone Control (android), demo as programmed by me, and ported to iOS by Chris Aring.<br></center><h2 id="Rectangle-with-overhead-tracking-feedback-controller"><a href="#Rectangle-with-overhead-tracking-feedback-controller" class="headerlink" title="Rectangle with overhead tracking feedback controller"></a>Rectangle with overhead tracking feedback controller</h2><center><br><video id="rectangle demo" controls autoplay muted><br>  <source src="shape-rectangle.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br>NarwhalEdu Swarmbuddies - Single robot tracing out a rectangle, demo by Will<br>Kalb and Cappie Pomeroy.<br></center><h2 id="Triangle-with-overhead-tracking-feedback-controller"><a href="#Triangle-with-overhead-tracking-feedback-controller" class="headerlink" title="Triangle with overhead tracking feedback controller"></a>Triangle with overhead tracking feedback controller</h2><center><br><video id="triangle demo" controls muted loop><br>  <source src="shape-triangle.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br>NarwhalEdu Swarmbuddies - Single robot tracing out a triangle. (Title is shaking<br>because video was stabilized). Demo by Will Kalb and Cappie Pomeroy.<br></center><hr><h1 id="Other-Info"><a href="#Other-Info" class="headerlink" title="Other Info"></a>Other Info</h1><h2 id="Kickstarter"><a href="#Kickstarter" class="headerlink" title="Kickstarter"></a>Kickstarter</h2><p>Our <a href="https://www.kickstarter.com/projects/narwhaledu/the-little-swarmbuddies-that-could">kickstarter</a> was a Staff Pick.</p><ul><li><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="swarmbuddies.jpg" alt="Swarmbuddy robots, with wireless control and RGB lighting" title="">                </div>                <div class="image-caption">Swarmbuddy robots, with wireless control and RGB lighting</div>            </figure></li></ul><hr><h2 id="Electrical-engineering"><a href="#Electrical-engineering" class="headerlink" title="Electrical engineering"></a>Electrical engineering</h2><p>I designed and fabricated our boards in Diptrace, as well as wrote the firmware</p><ul><li><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="swarmbuddies-2.jpg" alt="I designed and fabricated the Atmega-based stepper control boards" title="">                </div>                <div class="image-caption">I designed and fabricated the Atmega-based stepper control boards</div>            </figure></li></ul><hr><h2 id="Mechanical-engineering"><a href="#Mechanical-engineering" class="headerlink" title="Mechanical engineering"></a>Mechanical engineering</h2><p>June Kim served as our mechanical engineer extraordinaire</p><ul><li><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="swarmbuddies-caps.png" alt="Caps as designed by our intern June Kim" title="">                </div>                <div class="image-caption">Caps as designed by our intern June Kim</div>            </figure></li><li><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="swarmbuddies-exploded.png" alt="Diagram as made by our intern June Kim" title="">                </div>                <div class="image-caption">Diagram as made by our intern June Kim</div>            </figure></li></ul><hr><h1 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a>Related Links</h1><ul><li>Our <a href="https://www.kickstarter.com/projects/narwhaledu/the-little-swarmbuddies-that-could">kickstarter</a></li><li><a href="https://vimeo.com/264710619">NarwhalEdu Swarmbuddies - Single robot interactive (point &#039;n click) control</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a></li><li><a href="https://vimeo.com/264710625">NarwhalEdu Swarmbuddies - Smartphone Control</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li><li><a href="https://vimeo.com/264710621">NarwhalEdu Swarmbuddies - Single robot tracing out a rectangle</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li><li><a href="https://vimeo.com/264710627">NarwhalEdu Swarmbuddies – Two robots tracing out a triangle</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li></ul> <!--point 'n click --><!--<div style="padding:56.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710619?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>--><!--Smartphone control--><!--<div style="padding:56.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710625?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>--><!--rectangle--><!--<div style="padding:56.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710621?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>--><!--triangle--><!--<div style="padding:56.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710627?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>-->]]></content>
+      
+      <categories>
+          
+          <category> Startup </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Kickstarter: NarwhalEdu</title>
+      <link href="/2013/05/NarwhalEdu-Kickstarter/"/>
+      <url>/2013/05/NarwhalEdu-Kickstarter/</url>
+      <content type="html"><![CDATA[<!--copying.webm kickstarter.webm narwhal.webm --><p><em>2013 (Kickstarter in Nov.)</em></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="kickstarter.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>After graduating, I recruited my friend Cappie Pomeroy. Together we founded an educational company, NarwhalEdu, to highlight the creative side of engineering. Our class, “Introduction to Engineering,” was accompanied by a drawing robot arm of our own design, and raised over twenty thousand dollars on Kickstarter while reaching over ninety students around the world.</p><p>We taught it on EdX with the permission of MIT’s Director of Digital Learning, Prof. Sanjay Sarma. We shipped ninety robotics kits on time and on-budget. Hanna Lin helped with the mechanical design and more over Summer 2013.</p><p> We were accepted into the 2013 MIT Global Founders’ Skills Accelerator. By focusing on hands-on online learning, we sought to address flaws we saw in our own education, such as the tendency to rely on funding, teacher resources, and large teams not available in rural settings, as well as the focus on competitions that skewed heavily male.</p><p><strong>Press:</strong></p><ul><li><a href="http://makezine.com/2013/12/04/wicked-cool-education-from-narwhaledu">Wicked Cool Education from NarwhalEdu</a>, Makezine, Dec. 2013</li><li><a href="http://hackaday.com/2013/11/22/learn-engineering-and-draw-narwhals">Learn Engineering and Draw Narwhals</a>, Hackaday, Nov. 2013</li></ul><p>Our backers around the world<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="batchgeo.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><h1 id="Demos"><a href="#Demos" class="headerlink" title="Demos"></a>Demos</h1><h2 id="Drawing-a-narwhal"><a href="#Drawing-a-narwhal" class="headerlink" title="Drawing a narwhal"></a>Drawing a narwhal</h2><center><br><video id="narwhal" controls autoplay muted loop><br>  <source src="narwhal.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br></center><!--<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710612?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>--><h2 id="Copying-the-motions-of-a-mock-arm"><a href="#Copying-the-motions-of-a-mock-arm" class="headerlink" title="Copying the motions of a mock arm"></a>Copying the motions of a mock arm</h2><p><center></p><p><video id="copying" controls autoplay muted loop><br>  <source src="copying.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br></center><br><!--<div style="padding:56.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710617?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>--></p><h1 id="More-media"><a href="#More-media" class="headerlink" title="More media"></a>More media</h1><p>We produced a class on the experimental EdX, EdXedge.<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="edx.jpg" alt="Our class on EdX" title="">                </div>                <div class="image-caption">Our class on EdX</div>            </figure></p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="product.jpg" alt="Our robot arm" title="">                </div>                <div class="image-caption">Our robot arm</div>            </figure><!--Drawing what was drawn on the screen--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="face.jpg" alt="Drawing a face using edge-detection on an image" title="">                </div>                <div class="image-caption">Drawing a face using edge-detection on an image</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="shipping_boxes.jpg" alt="Shipping kits" title="">                </div>                <div class="image-caption">Shipping kits</div>            </figure><hr><h1 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links"></a>Related Links</h1><ul><li><a href="https://www.kickstarter.com/projects/narwhaledu/robots-drawing-and-engineering-an-online-course">Robots, Drawing, and Engineering: An Online Course by NarwhalEdu – Kickstarter</a> </li><li><a href="https://vimeo.com/264710612">NarwhalEdu CopyCat Robot – Drawing a narwhal</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a></li><li><a href="https://vimeo.com/264710617">NarwhalEdu CopyCat Drawing Robot – Direct human to robot control</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li></ul><h1 id="Kickstarter-Video"><a href="#Kickstarter-Video" class="headerlink" title="Kickstarter Video"></a>Kickstarter Video</h1><p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710628?color=f0b000&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>]]></content>
+      
+      <categories>
+          
+          <category> Startup </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>EL Wire Workshop</title>
+      <link href="/2013/05/EL-Wire-Workshop/"/>
+      <url>/2013/05/EL-Wire-Workshop/</url>
+      <content type="html"><![CDATA[<p>With three others, organized and taught electroluminescent clothing workshop for five MIT undergraduates (for the deFlorez humor fund grant)</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="hat.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="students.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="testing_fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Leadership </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Hexapod Conference (Hexacon)</title>
+      <link href="/2013/05/Hexapod-Conference-Hexacon/"/>
+      <url>/2013/05/Hexapod-Conference-Hexacon/</url>
+      <content type="html"><![CDATA[<h2 id="Hexapod-Conference"><a href="#Hexapod-Conference" class="headerlink" title="Hexapod Conference"></a>Hexapod Conference</h2><p><em>May 2013</em></p><p>I won a de Florez Fund for Humor grant to organize Hexacon, the world’s first hexapod conference, with over thirty attendees, including Prof. Sangbae Kim from MIT and Prof. Aaron Hoover from Olin as speakers. For the conference, I lasercut hexapod earrings and also made paper hexapod kits using the designs from the Biomimetic Millisystems Lab at Berkeley.</p><p><strong>What I did</strong>:</p><p>Prof. Kim giving a presentation<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="prof.jpg" alt="Prof. Sangbae Kim giving a presentation at Hexacon" title="">                </div>                <div class="image-caption">Prof. Sangbae Kim giving a presentation at Hexacon</div>            </figure></p><p>RoaCH demo at Hexacon<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="RoaCH.jpg" alt="RoaCH demo at Hexacon" title="">                </div>                <div class="image-caption">RoaCH demo at Hexacon</div>            </figure></p><p>Lasercut hexapod earrings (by Nancy Ouyang)<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="earrings.jpg" alt="Lasercut hexapod earrings by Nancy Ouyang" title="">                </div>                <div class="image-caption">Lasercut hexapod earrings by Nancy Ouyang</div>            </figure></p><p>Shirt stencil (by Dane Kouttron)<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="stencil.jpg" alt="Hexacon shirt stencil by Dane Kouttron" title="">                </div>                <div class="image-caption">Hexacon shirt stencil by Dane Kouttron</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="shirt.jpg" alt="Screen-printed shirts" title="">                </div>                <div class="image-caption">Screen-printed shirts</div>            </figure></p><p>Poster (by Cynthia Lu)<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="poster.jpg" alt="Hexacon poster by Cynthia Lu" title="">                </div>                <div class="image-caption">Hexacon poster by Cynthia Lu</div>            </figure></p><p>For more information including videos, see the “Post-Event” tab on <a href="http://hexacon2013.mit.edu">hexacon2013.mit.edu</a>.</p><p>Press:</p><ul><li><a href="http://www.adafruit.com/blog/2013/04/22/mit-hexacon-2013-worlds-first-hexapod-conference-includes-dance-off/">MIT Hexacon 2013 World’s First Hexapod Conference (includes dance-off!)</a>, Adafruit, April 2013</li><li><a href="http://blog.trossenrobotics.com/2013/04/18/check-out-the-worlds-first-hexapod-conference-includes-dance-off-now-open-to-proposals-and-registration/">Check Out the World’s First Hexapod Conference</a>, TrossenRobotics, April 2013</li></ul>]]></content>
+      
+      <categories>
+          
+          <category> Leadership </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>LED Graduation Cap</title>
+      <link href="/2013/05/LED-Graduation-Cap/"/>
+      <url>/2013/05/LED-Graduation-Cap/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="trying_on.jpg" alt="Trying on the cap" title="">                </div>                <div class="image-caption">Trying on the cap</div>            </figure><center><br><video id ="Demo of Cap" controls><br>  <source src="1303.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br></center><p>For my graduation cap, I used RGB LED strips to spell out “MIT” and then used a simple fade effect to display all the colors. The breadboard was potted in hot glue and a lipo velcro’d to the underside as well.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="side_view.jpg" alt="Side view" title="">                </div>                <div class="image-caption">Side view</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cap.jpg" alt="Top view" title="">                </div>                <div class="image-caption">Top view</div>            </figure><p>Related Links:</p><ul><li><a href="https://vimeo.com/264710630">RGB LED graduation cap</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li><li><a href="http://www.orangenarwhals.com/2013/06/rgb-led-graduation-cap-shenanigans-mit-graduation-report">Blog post with more information</a></li></ul>]]></content>
+      
+      <categories>
+          
+          <category> EE </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>POV yoyo</title>
+      <link href="/2012/05/POV-yoyo/"/>
+      <url>/2012/05/POV-yoyo/</url>
+      <content type="html"><![CDATA[<p>Test<br>Who: I adapted existing attiny25/85  charlieplexed LED circuitry/code to the attiny45. Yoyo model from friend Laura Shumaker.<br>Details: 6 charlieplexed LEDs on 3 pins on an Attiny45, leaving pins for a button (on/off) and a phototransistor (for receiving new images to display). Intended to be press-fit into a (here 3d-printed) yoyo body with a depressible thermoformed cover and a coin-cell battery.</p><p><img src="yoyo.jpg" alt=""><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="yoyo_layout.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="solidworks_yoyo.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
+      
+      <categories>
+          
+          <category> EECS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>MITERS Seminar Series</title>
+      <link href="/2012/05/MITERS-Seminar-Series/"/>
+      <url>/2012/05/MITERS-Seminar-Series/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="seminar_classroom.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="seminarcloseup.JPG" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="seminar_participants.JPG" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Leadership </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Strobe Lab: Schlieren Technique</title>
+      <link href="/2012/05/Strobe-Lab-Schlieren-Technique/"/>
+      <url>/2012/05/Strobe-Lab-Schlieren-Technique/</url>
+      <content type="html"><![CDATA[<p>For our final project for Strobe Lab, we decided to investigate the<br>Background-oriented schlieren technique.<br><a href="https://en.wikipedia.org/wiki/Background-oriented_schlieren_technique">https://en.wikipedia.org/wiki/Background-oriented_schlieren_technique</a></p><p>By taking a pre- and post-image of dots, heat will distort the dots and we can<br>take use that to create a visualization of the heat flow.</p><p>My contribution on the CS side was minimal, however I found the project as a<br>whole really cool, so I am documenting it here.</p><p>My project partners were Merritt Boyd and Monica Ruiz.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="candle_pre.jpg" alt="Pre" title="">                </div>                <div class="image-caption">Pre</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="candle_post.jpg" alt="Post" title="">                </div>                <div class="image-caption">Post</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="schlieren_candle_diff.jpg" alt="Diff" title="">                </div>                <div class="image-caption">Diff</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="schlieren_vectors.png" alt="Vector of heat flow in matlab" title="">                </div>                <div class="image-caption">Vector of heat flow in matlab</div>            </figure><!--'Mark I Presentation.pdf'--><p>Note that the final image (of the vectors) is very low resolution. Our script<br>output very low resolution images (the pretty image is from a simple diff using<br>a photo editing program). Fixin that was to be our “future work”</p>]]></content>
+      
+      <categories>
+          
+          <category> CS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>18 Servo Hexapod</title>
+      <link href="/2011/09/18-Servo-Hexapod/"/>
+      <url>/2011/09/18-Servo-Hexapod/</url>
+      <content type="html"><![CDATA[<p><em>Fall 2011</em></p><p>Inspired by videos of dancing hexapod competitions, I built an 18-servo hexapod and programmed it by myself.  Here’s a video of it walking:</p><center><br><video id="Tripod gait" controls autoplay muted loop><br>  <source src="tripod_gait.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br></center><p>The robot was made of ABS plastic, 18 servos, an Arduino nano, and a Pololu serial servo controller. With Prof. Dan Frey’s permission, I substited this independent project for the normal coursework for Design and Manufacturing I. The hexapod used the tripod gait to walk and turn around.</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="complete.jpg" alt="Completed robot" title="">                </div>                <div class="image-caption">Completed robot</div>            </figure><p><strong>What I did</strong>: This project was my own design, fabrication, and programming.</p><h1 id="Instructables"><a href="#Instructables" class="headerlink" title="Instructables"></a>Instructables</h1><ul><li>I wrote an Instructables about it which was featured and received over 44,000 views: <a href="http://www.instructables.com/id/Simple-18dof-Hexapod-Arduino-nano-optionally-wit/">Simple 18dof Hexapod, Arduino nano (optionally with pololu maestro)</a>.</li></ul><h1 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h1><p>I made a video about the design process:</p><p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264710567?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p><h1 id="Related-Links"><a href="#Related-Links" class="headerlink" title="Related Links:"></a>Related Links:</h1><ul><li>The code may be found on <a href="https://github.com/nouyang/18-servo-hexapod">Github</a>.</li><li>An album of build pictures: <a href="https://picasaweb.google.com/113942194695013581888/2007HexapodSpring2011">2.007 Hexapod (Spring 2011)</a></li><li>A <a href="http://orangenarwhals.blogspot.com/2011/05/dreaming-of-dancing-hexapods-2007.html">retrospective blog post</a>.</li><li><a href="https://vimeo.com/264710615">Circular Hexapod – Walking around</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li><li><a href="https://vimeo.com/264710567">Prototyping and Design Process – Hexapods</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>.</li></ul><hr><!-- - <a href="https://vimeo.com/264710567">Prototyping and Design Process - Hexapods</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a> --><!--<center>--><!--<video id ="Hexapod Design" controls>-->  <!--<source src="design_of_hexapods.webm" type="video/webm">-->  <!--Your browser does not support the video HTML5 tag.--><!--</video> --><!--</center>--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="leg_prototype.jpg" alt="A picture of one of the first prototypes" title="">                </div>                <div class="image-caption">A picture of one of the first prototypes</div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> MechE </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Countertop Vending Machine</title>
+      <link href="/2011/05/Countertop-Vending-Machine/"/>
+      <url>/2011/05/Countertop-Vending-Machine/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="countertop_vending.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>What: Small vending machine to stock Arduinos in our makerspace.<br>Who: Lathe spring-making technique from Instructables, all else by me.<br>Details: Four servos and springs, push buttons, arduino. Lasercut wood frame. To be decided: work with expensive cash reader, use honor/MIT ID, or leave next to computer and use Square?</p>]]></content>
+      
+      <categories>
+          
+          <category> EECS </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Rideable Hexapod</title>
+      <link href="/2011/05/Rideable-Hexapod/"/>
+      <url>/2011/05/Rideable-Hexapod/</url>
+      <content type="html"><![CDATA[<p>Over the summer of 2011, I welded and wired together a rideable hexapod based on designs by Rick Pantaleo. It’s built with a steel tubing frame (MIG welded), controlled by two drill trigger controllers, a found racing car seat, and powered by donated A123 lead acid replacement batteries with reused tennis balls for feet. I took it to two New York Maker Faires and let kids ride in it.</p><p>A video of a friend riding it (video credit Colin Parsons):</p><center><br><video id="Rideable hexapod demo" controls autoplay muted loop><br>  <source src="yay_hexapods.webm" type="video/webm"><br>  Your browser does not support the video HTML5 tag.<br></video><br></center><p><center><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="maker_faire.jpg" alt="Demo at Maker Faire" title="">                </div>                <div class="image-caption">Demo at Maker Faire</div>            </figure><br></center><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="techfair.jpg" alt="Demo at techfair" title="">                </div>                <div class="image-caption">Demo at techfair</div>            </figure></p><p>Related Links:</p><ul><li><a href="https://vimeo.com/264710607">Rideable Hexapod – Yay Hexapods!!</a> from <a href="https://vimeo.com/user83975514">nouyang</a> on <a href="https://vimeo.com">Vimeo</a>. </li></ul>]]></content>
+      
+      <categories>
+          
+          <category> MechE </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Food Fun</title>
+      <link href="/1010/05/Food-Fun/"/>
+      <url>/1010/05/Food-Fun/</url>
+      <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="challah_animals.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_challah_braided.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_challah_cooked.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_challah_strands.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_cookie_dough_bowl.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_cookie_dough.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_cookie_slices.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="rainbow_heart_cookies.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="robot_pumpkin.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>Rainbow challah, challah animals, cute robot pumpkin, rainbow cookies</p><p>2011<br>blurb: CNC foam and 2 part food-safe silicone mold for Nyancakes.</p>]]></content>
+      
+      <categories>
+          
+          <category> Hobbies </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Projects I didn&#39;t get around to documenting</title>
+      <link href="/1010/05/Projects-I-didn-t-get-around-to-documenting/"/>
+      <url>/1010/05/Projects-I-didn-t-get-around-to-documenting/</url>
+      <content type="html"><![CDATA[<p>Flask webapps, </p><h2 id="Hbridge"><a href="#Hbridge" class="headerlink" title="Hbridge"></a>Hbridge</h2><p>What: Final project, 6.163 Power Electronics, to drive rideable hexapod’s motors.<br>Who: Based heavily off of designs documented by Charles Guan and Shane Colton.<br>Details: Main signal board and two daughter power boards. Attiny44, IR21844 driver chip.<br>source files: &lt; github.com/nouyang/hexapodtroller &gt;<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="controller_board.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="layout.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="populated_controller.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>Laser-etched anodized aluminum business cards<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="biz_card.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
+      
+      <categories>
+          
+          <category> Other </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Sailing and Other Adventures</title>
+      <link href="/1010/05/Sailing-and-Other-Adventures/"/>
+      <url>/1010/05/Sailing-and-Other-Adventures/</url>
+      <content type="html"><![CDATA[<p>Sailing &amp; Other Adventures: hiking, sailing to ME, sailing to Martha’s, the story of the little red boat, bike trip from LA to San Diego, (pika energy, cross country road?)</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="misc-pony.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="misc-seakayak.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="misc-trail.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="misc-winter.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Other </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Sewing and Crafts</title>
+      <link href="/1010/05/Sewing-and-Crafts/"/>
+      <url>/1010/05/Sewing-and-Crafts/</url>
+      <content type="html"><![CDATA[<p>Infinity dresses, Cosplay, OSHW dress, skirt, shirt + tatt, pom poms</p><h3 id="pompoms"><a href="#pompoms" class="headerlink" title="pompoms"></a>pompoms</h3><p><a href="http://www.orangenarwhals.com/2018/01/pom-poms-galore/">http://www.orangenarwhals.com/2018/01/pom-poms-galore/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="pompom_alphabet_failures_aaaaaa.jpg" alt="Pom pom design (spherical projection) -- iterations of letter "A"" title="">                </div>                <div class="image-caption">Pom pom design (spherical projection) -- iterations of letter "A"</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="neko" alt="Cute pom pom (much eaiser)" title="cat">                </div>                <div class="image-caption">cat</div>            </figure></p><h2 id="Clothing"><a href="#Clothing" class="headerlink" title="Clothing"></a>Clothing</h2><h3 id="Infinity-Dress"><a href="#Infinity-Dress" class="headerlink" title="Infinity Dress"></a>Infinity Dress</h3><p><a href="http://www.instructables.com/id/Infinity-Dress/">http://www.instructables.com/id/Infinity-Dress/</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="infinity_4pieces.jpg" alt="2nd sewing project, Infinity Dress -- only takes 4 pieces" title="">                </div>                <div class="image-caption">2nd sewing project, Infinity Dress -- only takes 4 pieces</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="robots2016.jpg" alt="Final Infinity Dress" title="">                </div>                <div class="image-caption">Final Infinity Dress</div>            </figure></p><h3 id="Cosplay"><a href="#Cosplay" class="headerlink" title="Cosplay"></a>Cosplay</h3><p>Cosplay (first sewing project) of Lie Ren<br><!--back_view.jpg--><br><!--epoxy_jig.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/fit.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pic.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/group_pose_action.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--group_pose_salute.jpg--><br><!--hem.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/mannequin.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><!--newspaper.jpg--><br><!--spraypaint.jpg--><br><!--tshirt_wIp.jpg--><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="cosplay/spraypaint.jpg" alt="Lasercut, epoxied, and spray-painted weapon for cosplay" title="">                </div>                <div class="image-caption">Lasercut, epoxied, and spray-painted weapon for cosplay</div>            </figure></p><h3 id="Rainbow-dress"><a href="#Rainbow-dress" class="headerlink" title="Rainbow dress"></a>Rainbow dress</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="right_oshw_speaker.jpg" alt="Rainbow dyed DIY dress for Open Source Hardware Summit" title="">                </div>                <div class="image-caption">Rainbow dyed DIY dress for Open Source Hardware Summit</div>            </figure><h2 id="Other-fashion"><a href="#Other-fashion" class="headerlink" title="Other fashion"></a>Other fashion</h2><h3 id="Nails"><a href="#Nails" class="headerlink" title="Nails"></a>Nails</h3><p>Hydrographic Printing 3d prints:<br><a href="https://www.youtube.com/watch?v=YlUhPrAqiY0">https://www.youtube.com/watch?v=YlUhPrAqiY0</a><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_water.jpg" alt="Marbled paints" title="">                </div>                <div class="image-caption">Marbled paints</div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="marbled_nails.jpg" alt="Hydrographic transfer of nail polish" title="">                </div>                <div class="image-caption">Hydrographic transfer of nail polish</div>            </figure></p><h3 id="Flat-cut-heels-didn’t-succeed"><a href="#Flat-cut-heels-didn’t-succeed" class="headerlink" title="Flat-cut heels (didn’t succeed)"></a>Flat-cut heels (didn’t succeed)</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/final_bend.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><!--initial_heat.jpg--><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="lasercut-heels/lasercutter_stencil.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><h3 id="Stamping-plates"><a href="#Stamping-plates" class="headerlink" title="Stamping plates"></a>Stamping plates</h3><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="nail_stamping.jpg" alt="Nail stamping plates, laser-etched" title="">                </div>                <div class="image-caption">Nail stamping plates, laser-etched</div>            </figure>]]></content>
+      
+      <categories>
+          
+          <category> Hobbies </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+  
+  
+</search>

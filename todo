@@ -1,0 +1,68 @@
+See "The Rise and Fall of an Open Source Hardware Startup", 5 minute talk at Open Source Hardware Summit 2015
+video: https://vimeo.com/143779169#t=46m
+(press play and it will skip to and start playing at the time indicated in the URL)
+slides: https://drive.google.com/file/d/0B9r0HZeoMbmgSGJ2VG11QWQtdmc/view
+
+
+
+https://docs.google.com/spreadsheets/d/1cSJN3d1-qlIoQz-Vgo_HFkcOblMgjEOfUClCb_amg3k/edit#gid=2065857604
+
+https://www.flickr.com/photos/open_hardware_summit/21834924020/in/album-72157659525262656/
+
+
+
+
+
+What: Small vending machine to stock Arduinos in our makerspace.
+Who: Lathe spring-making technique from Instructables, all else by me.
+Details: Four servos and springs, push buttons, arduino. Lasercut wood frame. To be decided: work with expensive cash reader, use honor/MIT ID, or leave next to computer and use Square?
+
+What: Final project, 6.163 Power Electronics, to drive rideable hexapod's motors.
+Who: Based heavily off of designs documented by Charles Guan and Shane Colton.
+Details: Main signal board and two daughter power boards. Attiny44, IR21844 driver chip.
+
+source files: < github.com/nouyang/hexapodtroller >
+
+
+Who: I adapted existing attiny25/85  charlieplexed LED circuitry/code to the attiny45. Yoyo model from friend Laura Shumaker.
+Details: 6 charlieplexed LEDs on 3 pins on an Attiny45, leaving pins for a button (on/off) and a phototransistor (for receiving new images to display). Intended to be press-fit into a (here 3d-printed) yoyo body with a depressible thermoformed cover and a coin-cell battery.
+
+
+
+
+What: Silicone food mold.
+Who: Design based on internet meme. CAD + Partworks CAM by me.
+For: How to Make Almost Anything.
+Details: Insulation foam positive CNC milled on Shopbot. Negative mold cured from two-part silicone mix.
+ 
+
+
+What: HackNY Hackathon entry.
+Who: Charlie He, Nathan Hwang, David Iserovich, and I.
+For: Silliness.
+Details: Nyancat floats over google maps, replaces nouns in the nytimes news ticker with parse.ly, etc. Won "Most APIs" award.
+ 
+
+What: Hexapod prototypes designed by UC Berkeley Biomimetic MIllisystems.
+Who: Katy Gero organized this building session (I led the group).
+For: Fun. Voluntary reading group with food funded by MIT's American Society of Mechanical Engineers chapter. 
+Details: Lasercut bristol board, elmer's glue, super glue. Manual actuation.
+
+build log + videos: < katygero.wordpress.com/2012/07/17/hexapods >
+
+
+What: Laser-etched poptart.
+Who: Derivative work of lvl1 hackerspace. Independent processing for lasercutting. 
+For: Fun.
+
+Left: As president of the student-run shop MITERS, I organized a series of peer-to-peer workshops from scratch (topics included 555 LEDs, Eagle, surface-mount soldering).
+ 
+ What: Rideable linkage-mechanism hexapod
+Who: Derivative of Rick Pantaleo's Instructables, with custom controls. Built entirely by myself.
+For: For fun! Plus, kids enjoy riding it.
+Details: Steel tubing frame (MIG welded), two wheelchair motors directly controlled by two drill trigger controllers, racing car seat (found), powered by A123 lead acid replacement (donated), tennis ball feet (donated).
+ 
+ 
+Started and led reading group with over twenty people to discuss and read papers on engineering softwar5e that aids in design, simulation, and analysis.
+
+CAD Reading Group
