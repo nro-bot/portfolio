@@ -3,7 +3,7 @@ layout: frontpage
 date: 2018-05-27 16:32:58
 ---
 
-# Hi, I'm Nancy Ouyang. 
+# Hi, I'm Rui Ouyang. 
 
 <div style="font-size:1.5em; text-align:center"> I’m an engineer, entrepreneur, and a roboticist (whoo robots!). I'm currently pursuing a PhD in computer science at Harvard. Previously, I studied mechanical engineering from MIT, graduating in 2013.</div>
 
